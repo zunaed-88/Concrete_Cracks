@@ -19,7 +19,6 @@ To set up the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/image-classifier.git`
 2. Navigate to the project directory: `cd image-classifier`
-3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 
@@ -39,16 +38,12 @@ To evaluate the trained models:
 
 ## Results
 
-We present the performance metrics of the VGG16 and ResNet50 classifiers and compare their accuracy, precision, recall, and F1-score.
+We present the performance metrics of the VGG16 and ResNet50 classifiers and compare their accuracy
 
-| Model    | Accuracy | Precision | Recall | F1-score |
-|----------|----------|-----------|--------|----------|
-| VGG16    | 0.85     | 0.87      | 0.84   | 0.85     |
-| ResNet50 | 0.88     | 0.89      | 0.88   | 0.88     |
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+| Model    | Accuracy |
+|----------|----------|
+| VGG16    | 98.6     | 
+| ResNet50 | 96.7     | 
 
 ## License
 
@@ -58,5 +53,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out to the project maintainer:
 
-- [Your Name](mailto:your.email@example.com)
+- [Junaid Ahmed](junaidahmed.phy@gmail.com)
 
