@@ -13,13 +13,6 @@ This project aims to classify images into predefined categories using deep learn
 - Allows training on custom datasets.
 - Evaluates the performance of the classifiers and compares their results.
 
-## Installation
-
-To set up the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/image-classifier.git`
-2. Navigate to the project directory: `cd image-classifier`
-
 ## Usage
 
 ### Training
