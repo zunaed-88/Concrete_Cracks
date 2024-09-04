@@ -13,21 +13,6 @@ This project aims to classify images into predefined categories using deep learn
 - Allows training on custom datasets.
 - Evaluates the performance of the classifiers and compares their results.
 
-## Usage
-
-### Training
-
-To train the image classifier:
-
-1. Prepare your dataset and organize it according to the expected directory structure.
-2. Modify the configuration file (`config.yaml`) to specify training parameters and dataset paths.
-3. Run the training script: `python train.py`
-
-### Evaluation
-
-To evaluate the trained models:
-
-1. Run the evaluation script: `python evaluate.py`
 
 ## Results
 
